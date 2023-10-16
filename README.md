@@ -10,8 +10,8 @@ Being an engineer with a strong affinity for quantitative finance and machine le
 * 📈 Econometrics
 
 ### Examples of Work:
-* [Project 1](https://www.google.com): description
-* [Project 2](https://www.google.com): description
+* [NLP & Machine Learning Project](https://github.com/simonhoyoscastro/Tweets-to-trades/blob/main/Tweets_to_Trades.ipynb): Elon Musk's tweets sentimient analysisis as a predictor for movements in TSLA stock
+* [Econometrics Project](https://github.com/simonhoyoscastro/VAR-Modeling/blob/main/VAR_Modeling.ipynb): VAR Models between commodities and currencies
 * [Project 3](https://www.google.com): description
 
 ###
