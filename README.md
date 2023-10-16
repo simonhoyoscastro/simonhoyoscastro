@@ -1,8 +1,10 @@
 ### Hi there 👋, my name is Simon
 #### Financial Engineer and Data Scientist
-As a financial engineer and data scientist, I am driven by a deep passion for utilizing the power of technology to solve complex problems in finance. With a strong background in both finance and data science, I am well-equipped to build sophisticated machine learning models that can accurately forecast financial trends and inform sound investment decisions.
 
-Skills: Python / R / Power BI / Bloomberg Terminal / SQL 
+Being an engineer with a strong affinity for quantitative finance and machine learning, my primary focus revolves around crafting models and pioneering strategies to navigate the complexities of financial landscapes, with a central emphasis on generating value. I firmly believe in the profound impact of education, and it's my pleasure to contribute to the exchange of ideas, communication, and interdisciplinary cooperation.
+
+Top 3 Skills: Python Programming/ Bloomberg Terminal / Storytelling and Presentations
+
 
 
 
