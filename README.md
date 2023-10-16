@@ -4,11 +4,13 @@ Being an engineer with a strong affinity for quantitative finance and machine le
 
 ### Skills: 
 * 🐍 Python Programming
+* 🤖 Machine Learning and AI (in finance)
 * 🖥️ Bloomberg Terminal
 * 📖 Storytelling and Presentations
-* 🤖 Machine Learning and AI (in finance)
 * 📈 Econometrics
 
+### Examples of Work:
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/simonhoyoscastro/simonhoyoscastro/blob/main/Images/LOGO%20SIMON.png) "Logo Title Text 1")
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/simonhoyoscastro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/simon-hoyos-castro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>]( wa.link/mf9k97)  
