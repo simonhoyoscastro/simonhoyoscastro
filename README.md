@@ -10,9 +10,9 @@ Being an engineer with a strong affinity for quantitative finance and machine le
 * 📈 Econometrics
 
 ### Examples of Work:
-* [NLP & Machine Learning Project](https://github.com/simonhoyoscastro/Tweets-to-trades/blob/main/Tweets_to_Trades.ipynb): Elon Musk's tweets sentimient analysisis as a predictor for movements in TSLA stock
-* [Econometrics Project](https://github.com/simonhoyoscastro/VAR-Modeling/blob/main/VAR_Modeling.ipynb): VAR Models between commodities and currencies
-* [Project 3](https://www.google.com): description
+* [Tweets to Trades](https://github.com/simonhoyoscastro/Tweets-to-trades/blob/main/Tweets_to_Trades.ipynb): NLP & Machine Learning Project. Elon Musk's tweets sentimient analysisis as a predictor for movements in TSLA stock
+* [VAR Modeling(https://github.com/simonhoyoscastro/VAR-Modeling/blob/main/VAR_Modeling.ipynb): Econometrics Project. VAR Models between commodities and currencies
+* [Colombian Bond Classification](https://github.com/simonhoyoscastro/Colombian-Bond-Clustering/blob/main/Colombian_Bond_Clustering.ipynb): Data Cleaning & Unsupervised ML. Using data extracted from the bloomberg terminal about colombian bonds to group them into different risk profiles. 
 
 ###
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/simonhoyoscastro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/simon-hoyos-castro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>]( wa.link/mf9k97)  
